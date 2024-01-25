@@ -1,0 +1,20 @@
+#jumper{
+    background-color: rgb(249, 245, 197);
+    height: 100px;
+    width: 200px;
+    border: 2px solid grey;
+}
+
+.bank{
+    background-color: rgb(112, 185, 249);
+    height: 100px;
+    width: 200px;
+    border: 2px solid grey;
+}
+
+.church{
+    background-color: rgb(112, 185, 249);
+    height: 100px;
+    width: 200px;
+    border: 2px solid grey;
+}
